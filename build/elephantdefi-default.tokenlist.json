@@ -1,10 +1,10 @@
 {
   "name": "Elephant Default",
-  "timestamp": "2021-08-31T06:04:38.282Z",
+  "timestamp": "2021-10-12T07:10:46.985Z",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 4
+    "minor": 5,
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png",
@@ -391,11 +391,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x835B508f257EbDcac9442FE7EfAc676e4f24Ae0F",
+      "address": "0xC30a7F9c216B945Ff8ACFB389e955A637eB0f478",
       "symbol": "ELEPHANT",
       "name": "Elephant",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+      "logoURI": "https://i.imgur.com/M0XFYmK.png"
     },
     {
       "chainId": 1666600000,
@@ -444,6 +444,14 @@
       "name": "Wrapped ONE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xf4E99513b2d31AE0b9080ff18D480EA9ED03084A",
+      "symbol": "xELEPHANT",
+      "name": "Elephant Pit",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/M0XFYmK.png"
     },
     {
       "chainId": 1666600000,

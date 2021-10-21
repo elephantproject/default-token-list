@@ -25,11 +25,19 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0x835B508f257EbDcac9442FE7EfAc676e4f24Ae0F",
+    "address": "0xC30a7F9c216B945Ff8ACFB389e955A637eB0f478",
     "symbol": "ELEPHANT",
     "name": "Elephant",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+    "logoURI": "https://i.imgur.com/M0XFYmK.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xf4E99513b2d31AE0b9080ff18D480EA9ED03084A",
+    "symbol": "xELEPHANT",
+    "name": "Elephant Pit",
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/M0XFYmK.png"
   },
   {
     "chainId": 1666600000,
