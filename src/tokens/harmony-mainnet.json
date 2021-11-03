@@ -17,11 +17,67 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0xB2e2650DFdb7b2DEc4a4455a375ffBfD926cE5FC",
+    "symbol": "FATE",
+    "name": "FATExDAO Token",
+    "decimals": 18,
+    "logoURI": "https://fatex.io/fatex-token-logo.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x97594E465e6B4df48e58327f566a3F79E9274655",
+    "symbol": "ADENA",
+    "name": "Adena",
+    "decimals": 18,
+    "logoURI": "https://adena.finance/_next/image?url=https%3A%2F%2Fadena.finance%2Fimages%2Ftokens%2Fadena.png&w=96&q=75"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xD74433B187Cf0ba998Ad9Be3486B929c76815215",
+    "symbol": "MIS",
+    "name": "Artemis",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18916/small/136704691-920ef315-4906-4a82-bca1-144b07dea3fb.png?1633919295"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x1e05C8B69e4128949FcEf16811a819eF2f55D33E",
+    "symbol": "SONIC",
+    "name": "Sonic",
+    "decimals": 18,
+    "logoURI": "https://sonicswap.io/tokens/sonic_coin.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
     "symbol": "BUSD",
     "name": "Binance USD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+    "symbol": "JEWEL",
+    "name": "Jewels",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18570/small/fAisLIV.png?1632449282"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xA9cE83507D872C5e1273E745aBcfDa849DAA654F",
+    "symbol": "xJEWEL",
+    "name": "xJewels",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18570/small/fAisLIV.png?1632449282"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xCf1709Ad76A79d5a60210F23e81cE2460542A836",
+    "symbol": "TRANQ",
+    "name": "Tranquil",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18708/small/tranquil.png?1633060587"
   },
   {
     "chainId": 1666600000,

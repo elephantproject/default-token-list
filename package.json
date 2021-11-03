@@ -1,6 +1,6 @@
 {
   "name": "@elephantdefi/default-token-list",
-  "version": "1.5.9",
+  "version": "1.7.1",
   "description": "◦ The Elephant default token list",
   "main": "build/elephantdefi-default.tokenlist.json",
   "scripts": {
