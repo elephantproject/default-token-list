@@ -9,6 +9,22 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x22D62b19b7039333ad773b7185BB61294F3AdC19",
+    "symbol": "stONE",
+    "name": "Tranquil Staked One",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21848/small/7zRXwiV.png?1640132557"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x352cd428EFd6F31B5cae636928b7B84149cF369F",
+    "symbol": "1CRV",
+    "name": "Curve Dao Token",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c",
     "symbol": "bscADA",
     "name": "Cardano Token",
@@ -254,6 +270,14 @@
     "name": "TokenJenny",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/JENN.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
+    "symbol": "UST",
+    "name": "TerraUSD",
+    "decimals": 18,
+    "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_64/https://raw.githubusercontent.com/sushiswap/logos/main/network/harmony/0x224e64ec1BDce3870a6a6c777eDd450454068FEC.jpg"
   },
   {
     "chainId": 1666600000,
