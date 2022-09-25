@@ -1,10 +1,10 @@
 {
   "name": "Elephant Default",
-  "timestamp": "2022-01-06T00:23:18.001Z",
+  "timestamp": "2022-09-25T07:13:51.761Z",
   "version": {
-    "major": 2,
-    "minor": 7,
-    "patch": 2
+    "major": 5,
+    "minor": 8,
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://elephantdefi.s3.us-west-1.amazonaws.com/ELEPHANT.png",
@@ -15,14 +15,6 @@
     "list"
   ],
   "tokens": [
-    {
-      "chainId": 1666600000,
-      "address": "0x58f1b044d8308812881a1433d9Bbeff99975e70C",
-      "symbol": "11INCH",
-      "name": "1INCH Token",
-      "decimals": 18,
-      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/11INCH.png"
-    },
     {
       "chainId": 1666600000,
       "address": "0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F",
@@ -46,14 +38,6 @@
       "name": "Dai Stablecoin",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734",
-      "symbol": "1DSLA",
-      "name": "DSLA",
-      "decimals": 18,
-      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1DSLA.png"
     },
     {
       "chainId": 1666600000,
@@ -129,14 +113,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x97594E465e6B4df48e58327f566a3F79E9274655",
-      "symbol": "ADENA",
-      "name": "Adena",
-      "decimals": 18,
-      "logoURI": "https://adena.finance/_next/image?url=https%3A%2F%2Fadena.finance%2Fimages%2Ftokens%2Fadena.png&w=96&q=75"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c",
       "symbol": "bscADA",
       "name": "Cardano Token",
@@ -177,30 +153,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xB2e2650DFdb7b2DEc4a4455a375ffBfD926cE5FC",
-      "symbol": "FATE",
-      "name": "FATExDAO Token",
-      "decimals": 18,
-      "logoURI": "https://fatex.io/fatex-token-logo.png"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x0dD740Db89B9fDA3Baadf7396DdAD702b6E8D6f5",
-      "symbol": "hMOCHI",
-      "name": "MochiSwap Token",
-      "decimals": 18,
-      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/HMOCHI.png"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B",
-      "symbol": "JENN",
-      "name": "TokenJenny",
-      "decimals": 18,
-      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/JENN.png"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
       "symbol": "JEWEL",
       "name": "Jewels",
@@ -214,14 +166,6 @@
       "name": "ChainLink Token",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xD74433B187Cf0ba998Ad9Be3486B929c76815215",
-      "symbol": "MIS",
-      "name": "Artemis",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18916/small/136704691-920ef315-4906-4a82-bca1-144b07dea3fb.png?1633919295"
     },
     {
       "chainId": 1666600000,
@@ -257,14 +201,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
-      "symbol": "UST",
-      "name": "TerraUSD",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_64/https://raw.githubusercontent.com/sushiswap/logos/main/network/harmony/0x224e64ec1BDce3870a6a6c777eDd450454068FEC.jpg"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
       "symbol": "VIPER",
       "name": "Viper",
@@ -294,14 +230,6 @@
       "name": "xJewels",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18570/small/fAisLIV.png?1632449282"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
-      "symbol": "XYA",
-      "name": "Freyala",
-      "decimals": 18,
-      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/XYA.png"
     },
     {
       "chainId": 1666700000,

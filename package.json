@@ -1,6 +1,6 @@
 {
   "name": "elephantdexdefault-token-list",
-  "version": "2.7.2",
+  "version": "5.8.5",
   "description": "◦ The Elephant Dex default token list",
   "main": "build/elephantdefi-default.tokenlist.json",
   "scripts": {
@@ -16,10 +16,18 @@
     "url": "git+https://github.com/elephantproject/default-token-list.git"
   },
   "keywords": [
+    "Elephant Dex",
+    "Elephant Swap",
+    "AMM",
+    "Cryptocurrency",
+    "Casino",
+    "Harmony",
+    "Defi",
+    "core",
+    "uniswap-v2",
     "Elephant Project",
-    "default",
-    "token",
-    "list"
+    "Decentralized Token Exchange",
+    "Dex"
   ],
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
