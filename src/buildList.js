@@ -1,11 +1,4 @@
 const { version } = require("../package.json");
-/*const mainnet = require("./tokens/mainnet.json");
-const ropsten = require("./tokens/ropsten.json");
-const rinkeby = require("./tokens/rinkeby.json");
-const goerli = require("./tokens/goerli.json");
-const kovan = require("./tokens/kovan.json");*/
-// const bscMainnet = require("./tokens/bsc-mainnet.json");
-// const bscTestnet = require("./tokens/bsc-testnet.json");
 const harmonyMainnet = require("./tokens/harmony-mainnet.json");
 const harmonyTestnet = require("./tokens/harmony-testnet.json");
 
@@ -20,7 +13,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://elephantdefi.s3.us-west-1.amazonaws.com/ELEPHANT.png",
+    logoURI: "https://i.imgur.com/M0XFYmK.png",
     keywords: ["elephant", "default", "token", "list"],
     tokens: [...harmonyMainnet, ...harmonyTestnet]
       // sort them by symbol for easy readability

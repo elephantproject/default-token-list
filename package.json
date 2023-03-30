@@ -1,6 +1,6 @@
 {
   "name": "elephantdexdefault-token-list",
-  "version": "5.8.5",
+  "version": "9.0.0",
   "description": "◦ The Elephant Dex default token list",
   "main": "build/elephantdefi-default.tokenlist.json",
   "scripts": {
@@ -27,7 +27,8 @@
     "uniswap-v2",
     "Elephant Project",
     "Decentralized Token Exchange",
-    "Dex"
+    "Dex",
+    "Elephant.ac"
   ],
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
