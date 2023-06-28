@@ -1,9 +1,9 @@
 {
   "name": "Elephant Default",
-  "timestamp": "2023-03-30T09:53:26.426Z",
+  "timestamp": "2023-06-28T00:38:05.459Z",
   "version": {
-    "major": 9,
-    "minor": 0,
+    "major": 10,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -62,6 +62,30 @@
       "name": "Aave Harmony WONE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x7C07d01C9DaB5aBB09CE2b42242a7570F25fC2CC",
+      "symbol": "arbDAI",
+      "name": "Dai Stablecoin-Arbitrum",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x9b5fae311A4A4b9d838f301C9c27b55d19BAa4Fb",
+      "symbol": "arbUSDC",
+      "name": "USD Coin-Arbitrum",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x2DA729BA5231d2C79290aBA4a8b85a5c94dA4724",
+      "symbol": "arbUSDT",
+      "name": "Tether USD-Arbitrum",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
     },
     {
       "chainId": 1666600000,
@@ -173,7 +197,7 @@
       "symbol": "ELEPHANT",
       "name": "Elephant",
       "decimals": 18,
-      "logoURI": "https://i.imgur.com/M0XFYmK.png"
+      "logoURI": "https://elephant.ac/static/media/elephant-token-logo.f1dd854b.png"
     },
     {
       "chainId": 1666600000,
@@ -357,7 +381,7 @@
       "symbol": "xELEPHANT",
       "name": "Elephant Pit",
       "decimals": 18,
-      "logoURI": "https://i.imgur.com/M0XFYmK.png"
+      "logoURI": "https://elephant.ac/static/media/elephant-token-logo.f1dd854b.png"
     },
     {
       "chainId": 1666600000,
@@ -366,6 +390,14 @@
       "name": "xJewels",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18570/small/fAisLIV.png?1632449282"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xE064a68994e9380250CfEE3E8C0e2AC5C0924548",
+      "symbol": "xVIPER",
+      "name": "Viper Pit",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15305/small/0c4b902b40f14db918f4500956386414ab7ebcfe.jpeg?1620371961"
     },
     {
       "chainId": 1666700000,

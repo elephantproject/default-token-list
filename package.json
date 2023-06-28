@@ -1,7 +1,7 @@
 {
   "name": "elephantdexdefault-token-list",
-  "version": "9.0.0",
-  "description": "◦ The Elephant Dex default token list",
+  "version": "10.1.0",
+  "description": "The Elephant Dex & Casino default token list",
   "main": "build/elephantdefi-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
@@ -18,6 +18,9 @@
   "keywords": [
     "Elephant Dex",
     "Elephant Swap",
+    "Elephant Dex Casino",
+    "Harmony MEV Tracking Analytics",
+    "Analytics",
     "AMM",
     "Cryptocurrency",
     "Casino",
@@ -28,14 +31,15 @@
     "Elephant Project",
     "Decentralized Token Exchange",
     "Dex",
-    "Elephant.ac"
+    "Elephant.ac",
+    "Elephantinfo.ac",
+    "Harmony Horizon Bridge"
   ],
-  "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/elephantproject/default-token-list/issues"
   },
-  "homepage": "https://github.com/elephantproject/default-token-list#readme",
+  "homepage": "https://elephant.ac",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
