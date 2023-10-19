@@ -12,7 +12,7 @@
     "address": "0x9b5fae311A4A4b9d838f301C9c27b55d19BAa4Fb",
     "symbol": "arbUSDC",
     "name": "USD Coin-Arbitrum",
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
   },
   {
@@ -20,7 +20,7 @@
     "address": "0x2DA729BA5231d2C79290aBA4a8b85a5c94dA4724",
     "symbol": "arbUSDT",
     "name": "Tether USD-Arbitrum",
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
   },
   {
@@ -28,7 +28,7 @@
     "address": "0x7C07d01C9DaB5aBB09CE2b42242a7570F25fC2CC",
     "symbol": "arbDAI",
     "name": "Dai Stablecoin-Arbitrum",
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
   },
 
@@ -86,7 +86,7 @@
     "symbol": "rOne",
     "name": "Recovery One Token",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+    "logoURI": "https://recovery.exchange/images/r1_blue.jpg"
   },
   {
     "chainId": 1666600000,
@@ -187,17 +187,17 @@
   {
     "chainId": 1666600000,
     "address": "0xF2732e8048f1a411C63e2df51d08f4f52E598005",
-    "symbol": "USDT",
+    "symbol": "ethUSDT",
     "name": "Ethereum-Bridged Tether USD",
-    "decimals": 6,
+    "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
   },
   {
     "chainId": 1666600000,
     "address": "0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a",
-    "symbol": "bscUSDT",
+    "symbol": "USDT",
     "name": "Binance-Bridged Tether USD",
-    "decimals": 6,
+    "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
   },
   {
@@ -247,6 +247,14 @@
     "name": "Binance-Bridged Dai Stablecoin",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x128B21D28e8711B14Bbf87deb3468B63d68Ade85",
+    "symbol": "ONEAI",
+    "name": "ONEAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30431/small/200_%281%29.png?1684463739"
   },
   {
     "chainId": 1666600000,
@@ -362,6 +370,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x0341D02C0fD5439576742750e6F2a2C0993A520b",
+    "symbol": "bscZIL",
+    "name": "Ziliqua",
+    "decimals": 18,
+    "logoURI": "https://bridge.harmony.one/zil.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x2A719aF848bf365489E548BE5edbEC1D65858e59",
     "symbol": "FIRA",
     "name": "Defira Token",
@@ -383,5 +399,45 @@
     "name": "Avalanche",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png?1670992574"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x59FBCE10F6fC5FC9016ae294557A235661765C41",
+    "symbol": "TET",
+    "name": "Tetcoin",
+    "decimals": 18,
+    "logoURI": "https://banner2.cleanpng.com/20180715/uuv/kisspng-question-mark-computer-icons-button-font-awesome-cross-5b4b913607ec81.7146389715316790300325.jpg"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xBD58c54657cd753EeE336f7eD7cB57567704CD48",
+    "symbol": "DUST",
+    "name": "DustCoin",
+    "decimals": 18,
+    "logoURI": "https://banner2.cleanpng.com/20180715/uuv/kisspng-question-mark-computer-icons-button-font-awesome-cross-5b4b913607ec81.7146389715316790300325.jpg"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x725553bc9Aa0939362671407dfDEb162DD37d168",
+    "symbol": "MET",
+    "name": "Metatr.one",
+    "decimals": 18,
+    "logoURI": "https://cdn.sushi.com/image/upload/f_auto,c_limit,w_40,q_auto/tokens/1666600000/0x725553bc9Aa0939362671407dfDEb162DD37d168.jpg"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xE211Dfd985633DA0c5d6a82E469c726a59D45d1b",
+    "symbol": "USBL",
+    "name": "US Balanced Governance",
+    "decimals": 18,
+    "logoURI": "https://banner2.cleanpng.com/20180715/uuv/kisspng-question-mark-computer-icons-button-font-awesome-cross-5b4b913607ec81.7146389715316790300325.jpg"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xc2852a5F9439b5494bbe5F023D5BF02ddBC8A040",
+    "symbol": "HSNAKE",
+    "name": "HarmonySnake Token",
+    "decimals": 18,
+    "logoURI": "https://banner2.cleanpng.com/20180715/uuv/kisspng-question-mark-computer-icons-button-font-awesome-cross-5b4b913607ec81.7146389715316790300325.jpg"
   }
 ]
