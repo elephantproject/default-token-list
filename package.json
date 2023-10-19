@@ -1,6 +1,6 @@
 {
   "name": "elephantdexdefault-token-list",
-  "version": "12.0.0",
+  "version": "12.0.1",
   "description": "The Elephant Dex & Casino default token list. https://elephant.ac",
   "main": "build/elephantdefi-default.tokenlist.json",
   "scripts": {

@@ -330,6 +330,22 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x2672B791D23879995AaBdf51Bc7d3DF54BB4e266",
+    "symbol": "1CRO",
+    "name": "Cronos",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/7310/standard/cro_token_logo.png?1696507599"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x002FA662F2E09de7C306d2BaB0085EE9509488Ff",
+    "symbol": "1GRT",
+    "name": "Graph Token",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/7310/standard/cro_token_logo.png?1696507599"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x301259f392B551CA8c592C9f676FCD2f9A0A84C5",
     "symbol": "MATIC",
     "name": "Matic Token",
